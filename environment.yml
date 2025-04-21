@@ -1,0 +1,13 @@
+name: finbert
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - ipykernel
+prefix: /home/sheldor/anaconda3/envs/finbert
